@@ -1,6 +1,4 @@
-
-# discordroles
-another attempt at simple discord role authentication.
+# discordroles (Stable)
 
 The standard rule for each export is as follows: 
  - `guild` is an optional value that will take a custom guild ( a guild different to the one defined in your `config.json` )
